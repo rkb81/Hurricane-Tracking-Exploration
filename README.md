@@ -5,25 +5,25 @@ We would like to track historical hurricane paths and find cities that are prone
 
 Data: National Oceanic and Atmospheric Administration
 
-NOAA csv files
+NOAA csv files:
 https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/
 
-Geocoding API for city location
+Geocoding API for city location:
 https://openweathermap.org/api/geocoding-api
 
 Time Period:
 1923 - 2023
 
-Basins
+Basins:
 Western Pacific Ocean - Ron Briggs
 Northern Atlantic Ocean  - Leif Munroe
 North Indian Ocean - Ghislain Nyirumuheto
 
-Deliverables
+Deliverables:
 World Map of hurricane tracks overlaid with cities prone to hurricanes
 Charts of speed, atmospheric pressure and seasonality
 
-Project Timeline
+Project Timeline:
 
 May 29th - Complete data cleaning
 May 31st - Data Analysis
