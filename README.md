@@ -29,9 +29,3 @@ May 29th - Complete data cleaning
 May 31st - Data Analysis
 June 1st - Map and Chart Creation
 June 5th Present Project
-
-
-
-
-
-another new line
