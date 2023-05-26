@@ -12,7 +12,7 @@ Geocoding API for city location:
 https://openweathermap.org/api/geocoding-api
 
 Time Period:
-1923 - 2023
+1922 - 2022
 
 Basins:
 Western Pacific Ocean - Ron Briggs
@@ -20,8 +20,8 @@ Northern Atlantic Ocean  - Leif Munroe
 North Indian Ocean - Ghislain Nyirumuheto
 
 Deliverables:
-World Map of hurricane tracks overlaid with cities prone to hurricanes
-Charts of speed, atmospheric pressure and seasonality
+World Map of hurricane tracks overlaid with cities prone to hurricanes - for each basin
+Charts of speed, atmospheric pressure and seasonality - for each basin
 
 Project Timeline:
 
