@@ -15,17 +15,17 @@ Time Period:
 1923 - 2023
 
 Basins:
-Western Pacific Ocean - Ron Briggs
-Northern Atlantic Ocean  - Leif Munroe
-North Indian Ocean - Ghislain Nyirumuheto
+Western Pacific Ocean - Ron Briggs.
+Northern Atlantic Ocean  - Leif Munroe.
+North Indian Ocean - Ghislain Nyirumuheto.
 
 Deliverables:
-World Map of hurricane tracks overlaid with cities prone to hurricanes
-Charts of speed, atmospheric pressure and seasonality
+World Map of hurricane tracks overlaid with cities prone to hurricanes.
+Charts of speed, atmospheric pressure and seasonality.
 
 Project Timeline:
 
-May 29th - Complete data cleaning
-May 31st - Data Analysis
-June 1st - Map and Chart Creation
-June 5th Present Project
+May 29th - Complete data cleaning.
+May 31st - Data Analysis.
+June 1st - Map and Chart Creation.
+June 5th Present Project.
