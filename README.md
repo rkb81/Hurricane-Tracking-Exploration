@@ -102,26 +102,28 @@ What countries are most susceptible to hurricanes and by how much?
 
 Based on information from the NOAA, we learned that land masses can be affected by hurricanes as far as 111.12km from shore. We calculated all the hurricane points found within this radius.  After, we totalled the count for each country and then created choropleth maps to show the 10 most susceptible countries in 1952 and 2022.
 
-Top 10 countries with the highest proximity counts to hurricanes (1952):
-China: 1563
-Philippines: 810
-Vietnam: 368
-Taiwan: 191
-Federated States of Micronesia: 164
-Japan: 151
-Cambodia: 130
-Laos: 77
-Thailand: 71
-South Korea: 49
+| Name         | Count |
+|--------------|-------|
+| **Top 10 countries with the highest proximity counts to hurricanes (1952):** |       |
+| China                                                                     | 1563  |
+| Philippines                                                               | 810   |
+| Vietnam                                                                   | 368   |
+| Taiwan                                                                    | 191   |
+| Federated States of Micronesia                                            | 164   |
+| Japan                                                                     | 151   |
+| Cambodia                                                                  | 130   |
+| Laos                                                                      | 77    |
+| Thailand                                                                  | 71    |
+| South Korea                                                               | 49    |
+| **Top 7 countries with the highest proximity counts to hurricanes (2022):** |       |
+| Philippines                                                              | 378   |
+| China                                                                    | 193   |
+| Japan                                                                    | 162   |
+| Vietnam                                                                  | 37    |
+| South Korea                                                              | 12    |
+| Palau                                                                    | 6     |
+| Laos                                                                     | 4     |
 
-Top 10 countries with the highest proximity counts to hurricanes (2022):
-Philippines: 378
-China: 193
-Japan: 162
-Vietnam: 37
-South Korea: 12
-Palau: 6
-Laos: 4
 
 ## Conclusion
 
