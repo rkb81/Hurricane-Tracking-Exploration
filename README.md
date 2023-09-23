@@ -50,11 +50,9 @@ To answer the first question, we created a set of time series maps showing the l
 To answer the question of frequency in more statistical detail, time series graphs were created to show the number of storms occurring each year. 
 These “Number of Storms per Year” graphs of the North Atlantic Basin show an overall increase in the total number of storms occurring in that region between 1922-2022. The same data plotted in scatter format allows us to quantify this observation, showing a moderate positive correlation with an r-value of 0.491. This confirms the qualitative observations suggesting that the number of storms is increasing over time. 
 
-![Hurricanes (2012-2021)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Fig_2012_2021.png?raw=true)
-
 ![Hurricanes (1922-1931)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Fig_1922_1931.png?raw=true)
 
-https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Fig_2012_2021.png?raw=true
+![Hurricanes (2012-2021)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Fig_2012_2021.png?raw=true)
 
 ## Correlation Analysis
 
@@ -65,6 +63,8 @@ To answer this question, the Wind Speed and Air Pressure data for the North Atla
 Next we plotted the change in both variables over time, averaged by year. The  “Wind Speed Change over Time” graph shows that there is a strong negative correlation between average wind speed and year with an r-value of -0.714. In other words, the average wind speed is declining over time. The “Air Pressure Change over Time” graph shows a corresponding increase in average air pressure over 100 years, with a moderate positive correlation and r-value of 0.664. 
 
 To investigate the question of intensity in more detail, the data was grouped based on the Saffir-Simpson Hurricane Scale, which categorizes storm intensity based on wind speed,  ranging from Tropical Storm (>64 knots) to Category 5 Hurricane (<137 knots). A series of pie charts “Storm Categories for Decade x” were created to show the percent of total storms in each category for each decade. A stacked bar graph “Storm Categories by Decade” shows the same data for all decades on one chart. In both formats, it’s clear that the percent of Tropical Storms has been increasing over time, from just 27% of total storms in the 1920’s to just over 79% of the total in the 2010’s. Taken together with the “Wind Speed Change over Time” and the “Air Pressure Change over Time” graphs, this could suggest that the average intensity of all storms across a given year is decreasing at least in part because of an increasing number of these less intense Tropical Storms.
+
+![Storm Categories by decade](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Atlantic/Storm_category_gif.gif?raw=true)
 
 Finally we plotted “Max Wind Speed per Year”, which shows a weak positive correlation based on an r-value of 0.321. This suggests that there is an increase in intensity at the top end of the intensity spectrum. 
 All together, this snapshot of the North Atlantic basin over the last 100 years points to an increase in the number of storm events, particularly Tropical Storms, over time. It suggests that the most intense storms may be increasing in intensity, but more analysis is needed to understand these relationships. 
