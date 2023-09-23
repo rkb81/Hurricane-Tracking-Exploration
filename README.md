@@ -1,6 +1,6 @@
 # Hurricane Tracking and Trending Project
 
-# Table of Contents
+## Table of Contents
 - [Overview](#overview)
   - [Data](#data)
   - [NOAA csv files](#noaa-csv-files)
