@@ -12,11 +12,11 @@ Time Period:
 1922 - 2022
 
 Installing:
-Kaleido
-Pandas
-Plotly
-Matplotlib
-geo.py
+- Kaleido
+- Pandas
+- Plotly
+- Matplotlib
+- geo.py
 
 ## About
 
@@ -24,14 +24,10 @@ Hurricanes, as a natural phenomenon, can be a powerful and destructive force on 
 
 We set out to answer the following questions. 
 
-Are hurricanes increasing in frequency  and intensity over time?
-
-Are there any trends or patterns of wind speed and air pressure in regards to hurricanes in the North Atlantic Basin?
-
-What can we learn from tracking hurricanes?
-
-What countries surrounding the west Pacific basin were most susceptible to hurricanes and by how much?
-
+- Are hurricanes increasing in frequency  and intensity over time?
+- Are there any trends or patterns of wind speed and air pressure in regards to hurricanes in the North Atlantic Basin?
+- What can we learn from tracking hurricanes?
+- What countries surrounding the west Pacific basin were most susceptible to hurricanes and by how much?
 
 ## Data Cleaning and Discussion
 
@@ -67,33 +63,32 @@ What are the longest hurricanes by time in a given year?
 
 In order to answer this question, two linear maps of the 10 longest hurricane paths were created.  These were all located in the West Pacific Basin and the selected years were 1952 and 2022.  The list of hurricanes are shown below:
 
-Top 10 Longest hurricanes by time (1952):
+| Name         | Count |
+|--------------|-------|
+| **Top 10 Longest hurricanes by time (1952):** |       |
+| KAREN        | 141   |
+| TRIX         | 109   |
+| POLLY        | 93    |
+| JEANNIE      | 93    |
+| IVY          | 85    |
+| AGNES        | 83    |
+| CARMEN       | 81    |
+| WILMA        | 81    |
+| BESS         | 79    |
+| GILDA        | 77    |
+| **Top 10 Longest hurricanes by time (2022):** |       |
+| Name         | Count |
+| MUIFA        | 75    |
+| HINNAMNOR    | 73    |
+| AERE         | 67    |
+| MALAKAS      | 65    |
+| NALGAE       | 61    |
+| NANMADOL     | 57    |
+| NORU         | 51    |
+| NESAT        | 47    |
+| ROKE         | 45    |
+| MERBOK       | 33    |
 
-Name            Count
-KAREN         141
-TRIX             109
-POLLY    	93
-JEANNIE     	93
-IVY     	85
-AGNES     	83
-CARMEN     	81
-WILMA     	81
-BESS     	79
-GILDA     	77
-
-Top 10 Longest hurricanes by time (2022):
-
-Name  		Count
-MUIFA     		75
-HINNAMNOR   	73
-AERE     		67
-MALAKAS     	65
-NALGAE     		61
-NANMADOL    	57
-NORU     		51
-NESAT     		47
-ROKE     		45
-MERBOK     		33
 
 The resulting maps (found in the North_Pacific folder) clearly shows what the longest hurricanes are. The data was presented in a map rather than a list because the map shows more context, such as the path of the hurricane.  You can also see which countries are affected by each hurricane.
 
