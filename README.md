@@ -48,10 +48,9 @@ We set out to answer the following questions.
 ## Data Cleaning and Discussion
 
 The data available through the NOAA was extensive, encompassing all oceanic basins that experience Tropical Storms, going back in some cases as far as 1842. We chose to work with the last 100 years of data, from 1922-2022, from three most impacted basins. We assigned one to each group member as follows:
-
-Western Pacific Ocean - Ron Briggs
-Northern Atlantic Ocean  - Leif Munroe
-North Indian Ocean - Ghislain Nyirumuheto
+- Western Pacific Ocean - Ron Briggs
+- Northern Atlantic Ocean  - Leif Munroe
+- North Indian Ocean - Ghislain Nyirumuheto
 
 The Dataset for the North Atlantic Basin was the most complete, with the greatest amount of data captured for Wind Speed(knots) and Air Pressure(mb) over our chosen 100 year time frame. This allowed for more statistical analysis to be done, and with greater accuracy. 
 
