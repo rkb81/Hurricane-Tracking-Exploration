@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
-  - [Data](#data)
+  - [Data Source](#data)
   - [NOAA csv files](#noaa-csv-files)
   - [Time Period](#data-time-period)
   - [Installation](#installation)
@@ -18,7 +18,7 @@
 
 We would like to track historical hurricane paths and find countries that are prone to hurricanes. We would also like to find patterns and trends regarding the speed, atmospheric pressure and seasonality of hurricanes over time.
 
-### Data: 
+### Data Source: 
 National Oceanic and Atmospheric Administration
 
 ### NOAA csv files
