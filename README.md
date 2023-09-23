@@ -15,7 +15,6 @@
 - [Contributing](#Contributing)
 
 ## Overview
-
 We would like to track historical hurricane paths and find countries that are prone to hurricanes. We would also like to find patterns and trends regarding the speed, atmospheric pressure and seasonality of hurricanes over time.
 
 ### Data Source: 
@@ -39,7 +38,6 @@ https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stew
 Hurricanes, as a natural phenomenon, can be a powerful and destructive force on Earth. For this project, our group used Tropical Storm data from the International Best Track Archive for Climate Stewardship (IBTrACS), a project of the World Meteorological Organization(WMO), and accessed through the National Oceanic and Atmospheric Administration(NOAA) database. This data was used to analyze trends and patterns as well as to find areas prone to hurricanes. We looked at specific hurricane characteristics such as air pressure and wind speed to determine whether hurricanes are becoming more intense. Finally, we will use hurricane point data to determine if hurricane frequency is increasing over time.
 
 We set out to answer the following questions. 
-
 - Are hurricanes increasing in frequency  and intensity over time?
 - Are there any trends or patterns of wind speed and air pressure in regards to hurricanes in the North Atlantic Basin?
 - What can we learn from tracking hurricanes?
