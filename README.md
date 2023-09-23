@@ -105,7 +105,8 @@ What countries are most susceptible to hurricanes and by how much?
 
 Based on information from the NOAA, we learned that land masses can be affected by hurricanes as far as 111.12km from shore. We calculated all the hurricane points found within this radius.  After, we totalled the count for each country and then created choropleth maps to show the 10 most susceptible countries in 1952 and 2022.
 
-![Proximity Counts of Hurricanes (1952)]([https://github.com/log.png](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Countries_1952.png?raw=true)
+![Proximity Counts of Hurricanes (1952)][([https://github.com/log.png](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Countries_1952.png?raw=true)]
+
 
 | Name         | Count |
 |--------------|-------|
