@@ -89,7 +89,7 @@ To investigate the question of intensity in more detail, the data was grouped ba
 Finally we plotted “Max Wind Speed per Year”, which shows a weak positive correlation based on an r-value of 0.321. This suggests that there is an increase in intensity at the top end of the intensity spectrum. 
 All together, this snapshot of the North Atlantic basin over the last 100 years points to an increase in the number of storm events, particularly Tropical Storms, over time. It suggests that the most intense storms may be increasing in intensity, but more analysis is needed to understand these relationships. 
 
-![Max Wind Speed](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Atlantic/storm_categories.png?raw=true)
+![Max Wind Speed](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Atlantic/maxwindspeed.png?raw=true)
 
 ## Hurricane Tracking
 
