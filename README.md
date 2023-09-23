@@ -1,4 +1,4 @@
-Hurricane Tracking and Trending Project
+# Hurricane Tracking and Trending Project
 
 We would like to track historical hurricane paths and find countries that are prone to hurricanes. We would also like to find patterns and trends regarding the speed, atmospheric pressure and seasonality of hurricanes over time.
 
@@ -18,7 +18,7 @@ Plotly
 Matplotlib
 geo.py
 
-About
+## About
 
 Hurricanes, as a natural phenomenon, can be a powerful and destructive force on Earth. For this project, our group used Tropical Storm data from the International Best Track Archive for Climate Stewardship (IBTrACS), a project of the World Meteorological Organization(WMO), and accessed through the National Oceanic and Atmospheric Administration(NOAA) database. This data was used to analyze trends and patterns as well as to find areas prone to hurricanes. We looked at specific hurricane characteristics such as air pressure and wind speed to determine whether hurricanes are becoming more intense. Finally, we will use hurricane point data to determine if hurricane frequency is increasing over time.
 
@@ -33,7 +33,7 @@ What can we learn from tracking hurricanes?
 What countries surrounding the west Pacific basin were most susceptible to hurricanes and by how much?
 
 
-Data Cleaning and Discussion
+## Data Cleaning and Discussion
 
 The data available through the NOAA was extensive, encompassing all oceanic basins that experience Tropical Storms, going back in some cases as far as 1842. We chose to work with the last 100 years of data, from 1922-2022, from three most impacted basins. We assigned one to each group member as follows:
 
@@ -43,8 +43,7 @@ North Indian Ocean - Ghislain Nyirumuheto
 
 The Dataset for the North Atlantic Basin was the most complete, with the greatest amount of data captured for Wind Speed(knots) and Air Pressure(mb) over our chosen 100 year time frame. This allowed for more statistical analysis to be done, and with greater accuracy. 
 
-
-Time Series Analysis
+## Time Series Analysis
 
 Are hurricanes increasing in frequency  and intensity over time?
 
@@ -52,8 +51,7 @@ To answer the first question, we created a set of time series maps showing the l
 To answer the question of frequency in more statistical detail, time series graphs were created to show the number of storms occurring each year. 
 These “Number of Storms per Year” graphs of the North Atlantic Basin show an overall increase in the total number of storms occurring in that region between 1922-2022. The same data plotted in scatter format allows us to quantify this observation, showing a moderate positive correlation with an r-value of 0.491. This confirms the qualitative observations suggesting that the number of storms is increasing over time. 
 
-
-Correlation Analysis
+## Correlation Analysis
 
 Are there any trends or patterns of wind speed and air pressure in regards to hurricanes in the North Atlantic Basin?
 
@@ -63,8 +61,7 @@ To investigate the question of intensity in more detail, the data was grouped ba
 Finally we plotted “Max Wind Speed per Year”, which shows a weak positive correlation based on an r-value of 0.321. This suggests that there is an increase in intensity at the top end of the intensity spectrum. 
 All together, this snapshot of the North Atlantic basin over the last 100 years points to an increase in the number of storm events, particularly Tropical Storms, over time. It suggests that the most intense storms may be increasing in intensity, but more analysis is needed to understand these relationships. 
 
-
-Hurricane Tracking Analysis
+## Hurricane Tracking Analysis
 
 What are the longest hurricanes by time in a given year?
 
@@ -104,8 +101,7 @@ What can we learn from tracking hurricanes?
 
 Broadly speaking, we can make several conclusions based on reading these maps. First, we can see that powerful hurricanes that do not make landfall may not cause significant destruction.  We can also identify trends.  We can see from the maps that hurricanes tend to track towards higher latitudes.  Also, path analysis shows the unpredictability of hurricanes.  For example, we can see that hurricane Hinnamnor radically changes direction in the Philippine Sea. Finally, we can see how landfall locations reveal areas most prone to destructive impacts.
 
-
-Thematic Mapping Analysis
+## Thematic Mapping Analysis
 
 What countries are most susceptible to hurricanes and by how much?
 
@@ -131,6 +127,8 @@ Vietnam: 37
 South Korea: 12
 Palau: 6
 Laos: 4
+
+## Conclusion
 
 In summary, we can see that that China and the Philippines are the two hardest hit countries in the Western Pacific basin in 1952 and 2022 respectively. Additionally, we can see that as we move farther west from the Pacific Ocean, we see that countries are less susceptible to hurricanes (such as Laos and Myanmar).
 
