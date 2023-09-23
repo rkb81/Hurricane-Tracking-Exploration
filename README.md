@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
-  - [Data Source](#data)
+  - [Data Source](#data-source)
   - [NOAA csv files](#noaa-csv-files)
   - [Time Period](#data-time-period)
   - [Installation](#installation)
