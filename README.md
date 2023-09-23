@@ -73,36 +73,13 @@ All together, this snapshot of the North Atlantic basin over the last 100 years 
 
 What are the longest hurricanes by time in a given year?
 
-In order to answer this question, two linear maps of the 10 longest hurricane paths were created.  These were all located in the West Pacific Basin and the selected years were 1952 and 2022.  The list of hurricanes are shown below:
+In order to answer this question, two linear maps of the 10 longest hurricane paths were created.  These were all located in the West Pacific Basin and the selected years were 1952 and 2022.  The maps of hurricanes paths are shown below:
 
-| Name         | Count |
-|--------------|-------|
-| **Top 10 Longest hurricanes by time (1952):** |       |
-| KAREN        | 141   |
-| TRIX         | 109   |
-| POLLY        | 93    |
-| JEANNIE      | 93    |
-| IVY          | 85    |
-| AGNES        | 83    |
-| CARMEN       | 81    |
-| WILMA        | 81    |
-| BESS         | 79    |
-| GILDA        | 77    |
-| **Top 10 Longest hurricanes by time (2022):** |       |
-| Name         | Count |
-| MUIFA        | 75    |
-| HINNAMNOR    | 73    |
-| AERE         | 67    |
-| MALAKAS      | 65    |
-| NALGAE       | 61    |
-| NANMADOL     | 57    |
-| NORU         | 51    |
-| NESAT        | 47    |
-| ROKE         | 45    |
-| MERBOK       | 33    |
+![Hurricanes Paths (1952)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Tracks_1952.png?raw=true)
 
+![Hurricanes Paths (2022)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Tracks_2022.png?raw=true)
 
-The resulting maps (found in the North_Pacific folder) clearly shows what the longest hurricanes are. The data was presented in a map rather than a list because the map shows more context, such as the path of the hurricane.  You can also see which countries are affected by each hurricane.
+The resulting maps clearly shows what the longest hurricanes are. The data was presented in a map rather than a list because the map shows more context, such as the path of the hurricane.  You can also see which countries are affected by each hurricane.
 
 What can we learn from tracking hurricanes?
 
