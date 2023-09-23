@@ -1,17 +1,19 @@
 # Hurricane Tracking and Trending Project
 
+## Overview
+
 We would like to track historical hurricane paths and find countries that are prone to hurricanes. We would also like to find patterns and trends regarding the speed, atmospheric pressure and seasonality of hurricanes over time.
 
-Data: 
+### Data: 
 National Oceanic and Atmospheric Administration
 
-NOAA csv files
+### NOAA csv files
 https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/
 
-Time Period:
+### Time Period:
 1922 - 2022
 
-Installing:
+### Installing:
 - Kaleido
 - Pandas
 - Plotly
@@ -44,8 +46,15 @@ The Dataset for the North Atlantic Basin was the most complete, with the greates
 Are hurricanes increasing in frequency  and intensity over time?
 
 To answer the first question, we created a set of time series maps showing the location of each hurricane every 3 hours based on latitude and longitude, providing a high level snapshot of hurricane occurrences in each basin over time. Based on the increased dot density and the growing area of hurricane coverage, we can conclude that hurricanes are generally increasing in frequency between 1922 and 2021 in the West Pacific Basin.
+
 To answer the question of frequency in more statistical detail, time series graphs were created to show the number of storms occurring each year. 
 These “Number of Storms per Year” graphs of the North Atlantic Basin show an overall increase in the total number of storms occurring in that region between 1922-2022. The same data plotted in scatter format allows us to quantify this observation, showing a moderate positive correlation with an r-value of 0.491. This confirms the qualitative observations suggesting that the number of storms is increasing over time. 
+
+![Hurricanes (2012-2021)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Fig_2012_2021.png?raw=true)
+
+![Hurricanes (1922-1931)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Fig_1922_1931.png?raw=true)
+
+https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Fig_2012_2021.png?raw=true
 
 ## Correlation Analysis
 
@@ -107,40 +116,15 @@ Based on information from the NOAA, we learned that land masses can be affected 
 
 ![Proximity Counts of Hurricanes (1952)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Countries_1952.png?raw=true)
 
-| Name         | Count |
-|--------------|-------|
-| **Top 10 countries with the highest proximity counts to hurricanes (1952):** |       |
-| China                                                                     | 1563  |
-| Philippines                                                               | 810   |
-| Vietnam                                                                   | 368   |
-| Taiwan                                                                    | 191   |
-| Federated States of Micronesia                                            | 164   |
-| Japan                                                                     | 151   |
-| Cambodia                                                                  | 130   |
-| Laos                                                                      | 77    |
-| Thailand                                                                  | 71    |
-| South Korea                                                               | 49    |
-| **Top 7 countries with the highest proximity counts to hurricanes (2022):** |       |
-| Philippines                                                              | 378   |
-| China                                                                    | 193   |
-| Japan                                                                    | 162   |
-| Vietnam                                                                  | 37    |
-| South Korea                                                              | 12    |
-| Palau                                                                    | 6     |
-| Laos                                                                     | 4     |
-
+![Proximity Counts of Hurricanes (2022)](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/North_Pacific/Countries_2022.png?raw=true)
 
 ## Conclusion
 
 In summary, we can see that that China and the Philippines are the two hardest hit countries in the Western Pacific basin in 1952 and 2022 respectively. Additionally, we can see that as we move farther west from the Pacific Ocean, we see that countries are less susceptible to hurricanes (such as Laos and Myanmar).
 
-Contributing
+## Contributing
 
 - Ron Briggs
 - Leif Munroe
 - Ghislain Nyirumuheto
-
-
-
-
 
