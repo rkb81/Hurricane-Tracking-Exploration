@@ -1,6 +1,6 @@
-![header image](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/Resources/tracking.png)
-
 # Hurricane Tracking and Trending Project
+
+![header image](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/Resources/tracking.png)
 
 ## Table of Contents
 - [Overview](#overview)
