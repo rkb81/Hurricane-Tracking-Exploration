@@ -1,4 +1,4 @@
-# Hurricane Tracking and Trending Project
+# Hurricane Tracking and Trending
 
 ![header image](https://github.com/rkb81/Hurricane-Tracking-Project/blob/main/Resources/tracking.png)
 
